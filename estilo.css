@@ -1,0 +1,20 @@
+h1 {
+    color:rgb(230, 173, 173); font-family: sans-serif; font-size: 24;
+}
+h3 { 
+    color: black; font-style: initial;
+}
+h2 { 
+    color: blue; font:bold; font-style: oblique; text-align: right;
+}
+body{
+    background-color: rgb(0, 255, 191);
+}
+ul{
+    color:black; font-style: oblique; font-style: oblique; font-size: 20px;
+}
+h5{
+    color : black; border-style: solid;
+     border-color :whitesmoke; text-decoration-line: underline;
+      text-transform: uppercase; width: 105px;
+    }
