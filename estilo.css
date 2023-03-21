@@ -1,21 +1,24 @@
 
-   body{ background-color: grey}
-    
+body{
+    background-color:blue;
+  }
 h1 {
-    color:rgb(230, 173, 173); font-family: sans-serif; font-size: 24;
+   color:rgb(230, 173, 173); font-family: sans-serif; font-size: 24;
 }
 h3 { 
-    color: black; font-style: initial;
+   color: black; font-style:oblique;
 }
 h2 { 
-    color: purple; font:bold; font-style: oblique; text-align: right;
+   color: rgba(214, 252, 143, 0.918); font:bold; font-style: oblique; text-align: right;
 }
-
 ul{
-    color:black; font-style: oblique; font-size: 20px;
+    
+   color:red; font-style:inherit; font-size: 25px; border-color:black; border-style:dotted; width:100px;
+   
 }
 h5{
-    color : black; border-style: solid;
-     border-color :whitesmoke; text-decoration-line: underline;
-      text-transform: uppercase; width: 105px;
-    }
+   color : black; border-style: solid;
+    border-color :whitesmoke; text-decoration-line: underline;
+     text-transform: uppercase; width: 105px;
+   }
+  
