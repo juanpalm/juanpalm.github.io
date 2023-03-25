@@ -1,15 +1,14 @@
-
 body{
-    background-color:pink;
+    background-color:blue;
   }
 h1 {
-   color: blue; font-family: sans-serif; font-size: 24;
+   color:rgb(230, 173, 173); font-family: sans-serif; font-size: 24;
 }
 h3 { 
    color: black; font-style:oblique;
 }
 h2 { 
-   color: grey ; font:bold; font-style: oblique; text-align: right;
+   color: rgba(214, 252, 143, 0.918); font:bold; font-style: oblique; text-align: center;
 }
 ul{
     
@@ -21,4 +20,9 @@ h5{
     border-color :whitesmoke; text-decoration-line: underline;
      text-transform: uppercase; width: 105px;
    }
-  
+   p{
+      color:white; text-decoration-line: underline; font:bold; font-size:20px;text-align: center;
+  }
+  form{
+   color:white;text-align: center;
+  }
